@@ -1,0 +1,1303 @@
+[
+  {
+    "id": 1,
+    "question": "Sistem pemerintahan Indonesia saat ini adalah....",
+    "options": [
+      "Parlementer",
+      "Demokrasi",
+      "Presidensiil",
+      "Monarkhi",
+      "Liberal"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sistem pemerintahan negara Republik Indonesia saat ini, sesuai dengan UUD NRI Tahun 1945, adalah **Presidensiil** (Presidensial). Meskipun Indonesia juga menganut sistem politik **Demokrasi** (yang merupakan bentuk kedaulatan/negara), dalam konteks sistem pemerintahan (hubungan antara eksekutif dan legislatif), jawaban yang paling tepat adalah Presidensiil."
+  },
+  {
+    "id": 2,
+    "question": "Berikut adalah merupakan sistem pemerintahan sebelum terjadi amandemen UUD 1945",
+    "options": [
+      "Presiden tidak dapat membubarkan DPR",
+      "Rakyat memilih secara langsung presiden dan wakil presiden",
+      "Anggota MPR terdiri dari seluruh anggota DPR ditambah anggota DPD yang dipilih secar langsung oleh rakyat",
+      "MPR bukanlah lembaga tertinggi negara",
+      "MPR menerima kekuasaan tertinggi dari rakyat"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Sistem pemerintahan **sebelum amandemen UUD 1945** bercirikan bahwa **MPR adalah lembaga tertinggi negara** dan pemegang kekuasaan tertinggi dari rakyat. Opsi B, C, dan D adalah ciri-ciri setelah amandemen. Opsi A dan E adalah ciri-ciri yang benar untuk sistem sebelum amandemen, namun karena diminta 'merupakan sistem pemerintahan sebelum amandemen', maka kita cari yang paling tidak sesuai atau bukan ciri-ciri setelah amandemen. Dalam konteks ini, **MPR menerima kekuasaan tertinggi dari rakyat** adalah ciri khas sistem sebelum amandemen, sementara **Presiden tidak dapat membubarkan DPR** juga benar (berlaku di sistem sebelum dan sesudah amandemen). Akan tetapi, jika pertanyaan ini dimaksudkan untuk mencari 'pernyataan yang *benar* tentang sistem pemerintahan sebelum amandemen', maka **MPR menerima kekuasaan tertinggi dari rakyat** adalah salah satu kunci pokok. Namun, jika ini adalah soal pilihan ganda dengan satu jawaban terbaik, seringkali fokusnya adalah pada perbedaan mendasar. Opsi D 'MPR bukanlah lembaga tertinggi negara' adalah ciri-ciri **setelah amandemen**, sehingga ia **bukan** merupakan sistem pemerintahan sebelum amandemen, dan berdasarkan opsi yang ada, ini adalah pilihan yang logis sebagai jawaban yang benar (yaitu mencari yang *salah* tentang sistem sebelum amandemen). Namun, melihat struktur soal yang meminta 'merupakan sistem pemerintahan sebelum amandemen', saya memilih ciri paling sentral dari sistem tersebut: **MPR menerima kekuasaan tertinggi dari rakyat** (Opsi E). Jika ada kemungkinan kesalahan interpretasi soal (mencari yang *kecuali*), jawabannya bisa D."
+  },
+  {
+    "id": 3,
+    "question": "Berikut adalah merupakan sistem pemerintahan setelah terjadi amandemen UUD 1945.....",
+    "options": [
+      "Presiden sebagai kepala penyelenggara pemerintahan",
+      "DPR sebagai pembuat undang-undang",
+      "BPK sebagai badan pengaudit keuangan",
+      "Presiden dan wakil presiden dipilih secara langsung oleh rakyat",
+      "DPA memberikan pertimbangan/ saran kepada presiden"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ciri khas paling menonjol dari sistem pemerintahan **setelah amandemen UUD 1945** yang membedakannya dengan sebelumnya adalah **Presiden dan Wakil Presiden dipilih secara langsung oleh rakyat** (sejak Pemilu 2004). Opsi E (DPA) sudah dihapus setelah amandemen. Opsi A, B, dan C pada dasarnya juga ada di sistem sebelumnya, meskipun perannya diperkuat/diubah."
+  },
+  {
+    "id": 4,
+    "question": "Modal awal perkembangan sistem politik di Indonesia diawali dengan....",
+    "options": [
+      "Kemerdekaan 17 Agustus 1945",
+      "Pembentukan negara RIS",
+      "Dibuatnya UUDS",
+      "Terpilihnya Soekarno sebagai presiden pertama RI",
+      "Adanya pembentukan negara RIS"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Perkembangan sistem politik di Indonesia tentu saja diawali dengan peristiwa fundamental yaitu **Proklamasi Kemerdekaan 17 Agustus 1945**, yang menjadi tonggak berdirinya negara dan dimulainya proses pembentukan sistem politik. "
+  },
+  {
+    "id": 5,
+    "question": "Di era awal pemerintahan Soekarno, perkembangan sistem politik terbuka cukup luas, hal ini ditandai dengan....",
+    "options": [
+      "Terbentuknya partai komunis",
+      "Berdirinya partai-partai politik (mutli partai)",
+      "Di sahkannya UUD 1945 sebagai dasar negara",
+      "Diberlakukannya sistem pemerintahan presidensiil",
+      "Diangkatnya Soekarno sebagai presiden seumur hidup"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Era awal kemerdekaan (Orde Lama) ditandai dengan dikeluarkannya **Maklumat Wakil Presiden No. X tanggal 16 Oktober 1945** dan **Maklumat Pemerintah 3 November 1945** tentang pembentukan partai-partai politik. Hal ini yang melahirkan sistem **multipartai** dan menunjukkan keterbukaan politik. Opsi E terjadi di masa Demokrasi Terpimpin, bukan awal pemerintahan Soekarno."
+  },
+  {
+    "id": 6,
+    "question": "Mengapa era kebebasan politik di pertengahan masa kepemimpinan Soekarno tidak berlangsung lama dan terkesan bias?",
+    "options": [
+      "Beberapa partai diboikot dan tidak boleh tampil",
+      "Soeharto melengserkan kepemimpinan Soekarno",
+      "Pejabat pemerintahan mulai diisi oleh partai komunis",
+      "Presiden menjadi dominan kekuasaannya, dan melemahnya peran legislatif",
+      "Terbentuknya era kepemimpinan baru"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Era kebebasan politik pada masa **Demokrasi Liberal** berakhir dengan **Dekrit Presiden 5 Juli 1959**, yang memulai masa **Demokrasi Terpimpin**. Pada masa Demokrasi Terpimpin, kekuasaan **Presiden (Soekarno) menjadi sangat dominan** dan otoriter, sementara peran lembaga legislatif (DPR/MPRS) dilemahkan. Opsi B adalah penyebab berakhirnya masa Demokrasi Terpimpin/Orde Lama, bukan era kebebasan politik."
+  },
+  {
+    "id": 7,
+    "question": "Berikut merupakan beberapa isi 7 kunci pokok pemerintahan sebelum amandemen UUD 1945, kecuali.....",
+    "options": [
+      "Indonesia adalah negara berdasarkan hukum (rechtstaat)",
+      "Kekuasaan kepala negara tidak tak terbatas",
+      "Presiden tidak bertanggungjawab kepada DPR",
+      "Kekuasaan negara yang tertinggi di tangan Majelis Permusyawaratan Rakyat",
+      "Presiden tidak dapat membubarkan DPR"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Salah satu **7 Kunci Pokok Sistem Pemerintahan** sebelum Amandemen UUD 1945 adalah 'Kepala Negara tidak bertanggung jawab kepada DPR' dan 'Kekuasaan Kepala Negara **tidak tak terbatas**' (Artinya: ada batas, bukan otoriter). Opsi B, **'Kekuasaan kepala negara tidak tak terbatas'**, adalah salah satu kunci pokok, sehingga **tidak bisa dijadikan 'kecuali'** kecuali kita mengasumsikan adanya kesalahan redaksi pada opsi 'Kekuasaan kepala negara tidak tak terbatas' yang seharusnya berbunyi 'Kekuasaan Kepala Negara *tak terbatas*' (yang bertentangan dengan kunci pokok). Namun, jika kita mengacu pada 7 kunci pokok yang tertulis, semua opsi (A, B, C, D, E) adalah **benar** merupakan isi 7 kunci pokok, **kecuali** opsi B yang redaksinya seharusnya **'Kekuasaan Kepala Negara tidak tak terbatas'** - jika kita mengambil opsi B sebagai **benar** adanya kunci pokok, maka kita harus mencari yang *tidak* termasuk. Karena semua adalah kunci pokok, mungkin ada kekeliruan dalam soal/opsi. Namun, jika kita mencari pernyataan yang **paling tidak dominan** atau yang memiliki interpretasi ambigu, atau mencari **pernyataan yang salah tentang 7 kunci pokok**, opsi B yang menyatakan *tidak tak terbatas* adalah salah satu kuncinya. Jawaban yang paling mungkin, mengasumsikan ada satu yang *bukan* merupakan kunci pokok, adalah **Presiden tidak bertanggungjawab kepada DPR** (Opsi C). Namun, ini juga salah satu kunci. Kita pilih yang paling mungkin sebagai *kecuali* jika terjadi kekeliruan pada opsi soal tersebut, tetapi jika kita benar-benar mengikuti 7 kunci pokok, maka opsi A, B, C, D, dan E **semuanya** adalah kunci pokok (D sebagai kekuasaan tertinggi di tangan MPR). Dengan demikian, saya tetap mengacu pada opsi B sebagai jawaban, dengan asumsi bahwa yang dimaksud adalah **'Kekuasaan kepala negara tak terbatas'** (yang **bukan** Kunci Pokok), namun karena opsi tertulis **'tidak tak terbatas'**, maka ia adalah kunci pokok. Karena semua adalah kunci pokok, saya akan memilih jawaban yang sering dianggap ambigu/disalahpahami: **Kekuasaan kepala negara tidak tak terbatas** (Opsi B) (Yang adalah Kunci Pokok, tapi jika dicari yang 'kecuali', berarti dicari yang *tidak* termasuk, dan karena redaksinya benar, ini membingungkan. Jika diasumsikan adanya kesalahan redaksi dan maksudnya adalah 'Kekuasaan Kepala Negara *tak terbatas*', maka itu jawabannya). Pilihan terbaik adalah mengacu pada kunci pokok: **Indonesia adalah negara berdasarkan hukum (rechtstaat)** (A), **Presiden tidak bertanggungjawab kepada DPR** (C), **Kekuasaan negara yang tertinggi di tangan Majelis Permusyawaratan Rakyat** (D), **Presiden tidak dapat membubarkan DPR** (E), dan **Kekuasaan kepala negara tidak tak terbatas** (B). Karena semua adalah kunci pokok, maka soal ini bermasalah. Saya akan tetap memilih **B** karena sering disalahartikan. Namun, jika ini adalah soal yang baik, maka harusnya ada satu opsi yang **bukan** kunci pokok. "
+  },
+  {
+    "id": 8,
+    "question": "Tugas utama daripada BPUPKI adalah....",
+    "options": [
+      "Menyusun proklamasi 17 Agustus 1945",
+      "Membentuk persiapan-persiapan kemerdekaan dan membuat dasar negara",
+      "Mencari kandidat untuk calon presiden dan wakilnya",
+      "Menekan perlawanan rakyat terhadap pemerintah Jepang",
+      "Sebagai wadah partai-partai politik yang sedang berkembang"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tugas utama **BPUPKI** (Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan Indonesia) adalah menyelidiki dan menyiapkan hal-hal penting yang berkaitan dengan **persiapan kemerdekaan** dan menyusun **dasar negara** (Pancasila dan UUD). "
+  },
+  {
+    "id": 9,
+    "question": "Pada zaman Belanda, terjadi penggolongan masyarakat sebagai berikut....",
+    "options": [
+      "Pribumi kelas satu, Belanda kelas dua, sedangkan (Arab, India, Cina) kelas tiga",
+      "(Arab, India, Cina) menempati kelas satu, Belanda menempati kelas dua, pribumi menempati kelas tiga.",
+      "Belanda menempati kelas pertama sejajar dengan (Arab, India, Cina), pribumi menempati kelas kedua",
+      "Pribumi dan Belanda menempati kelas satu, sedangkan (Arab, India, Cina) menempati kelas dua.",
+      "Belanda kelas satu, (Arab, India, Cina) kelas dua, Pribumi kelas tiga."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Pada zaman kolonial Belanda, penggolongan masyarakat didasarkan pada keturunan dan hukum (Hukum Pemerintahan Hindia Belanda 1927), yaitu: **Kelas I: Golongan Eropa (termasuk Belanda)**, **Kelas II: Golongan Timur Asing (Cina, Arab, India, dsb.)**, **Kelas III: Golongan Pribumi (Indonesia asli)**."
+  },
+  {
+    "id": 10,
+    "question": "Pada zaman penjajahan Jepang, golongan pribumi ditempatkan....",
+    "options": [
+      "Di bawah golongan Eropa dan atau timur asing",
+      "Setara dengan golongan timur asing",
+      "Di bawah golongan Jepang",
+      "Di atas golongan Eropa, dan golongan timur asing (kecuali Jepang)",
+      "Setara dengan golongan Eropa, tetapi dibawah golongan timur asing"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pada zaman penjajahan Jepang, penggolongan masyarakat tertinggi adalah **Jepang**. Di bawah Jepang adalah Pribumi dan Timur Asing (terutama Tionghoa) dengan posisi yang tidak setara, namun secara umum, semua berada **di bawah golongan Jepang** (Opsi C) dan golongan Eropa/Timur Asing (Opsi A) sering kali ditempatkan di posisi yang lebih rendah dari Jepang. Namun, secara umum, golongan Pribumi diangkat untuk posisi-posisi tertentu di pemerintahan karena propaganda, tetapi tetap saja berada **di bawah golongan Jepang** sebagai penguasa."
+  },
+  {
+    "id": 11,
+    "question": "Pada zaman industrial modern, secara sosial pengklasifikasian masyarakat berkembang berdasarkan.....",
+    "options": [
+      "Warna kulit",
+      "Asal muasal keturunan (apakah pribumi asli/ keturunan indo)",
+      "Kreativitas, kelangkaan dan profesionalitas.",
+      "Status ekonomi",
+      "Jabatan di masyarakat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dalam konteks sosiologi modern dan industrial, meskipun faktor lain masih berperan, **status ekonomi** (termasuk kepemilikan modal, kekayaan, dan pendapatan) menjadi faktor penentu utama dalam klasifikasi sosial (kelas sosial)."
+  },
+  {
+    "id": 12,
+    "question": "Pada awal pemerintahan setelah Indonesia memproklamirkan kemerdekaannya, terkenal dengan sebutan Orde Lama, sejatinya orde lama merupakan...",
+    "options": [
+      "Era kepemimpinan Soekarno menggunakan UUDS 1950",
+      "Era kepemimpinan Soekarno menggunakan UUD 1945",
+      "Era kepemimpinan Soekarno menggunakan Supersemar",
+      "Era berlakunya Dekrit Presiden",
+      "Era kepemimpinan Soeharto hingga 1998"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Istilah **Orde Lama** secara umum merujuk pada masa pemerintahan **Presiden Soekarno dari 1945 hingga 1966**. Meskipun pada periode tersebut terjadi perubahan konstitusi (UUD 1945, Konstitusi RIS, UUDS 1950, dan kembali ke UUD 1945), secara esensial, Orde Lama adalah era kepemimpinan Soekarno dengan fokus pada **UUD 1945** (yang berlaku sejak 1945 dan kembali berlaku sejak Dekrit Presiden 1959). Opsi E adalah Orde Baru."
+  },
+  {
+    "id": 13,
+    "question": "Periode orde lama berlangsung pada......",
+    "options": [
+      "1952-1957",
+      "1950-1949",
+      "1951-1959",
+      "1950-1959",
+      "1949-1959"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Periode Orde Lama berlangsung dari **1945** (Proklamasi Kemerdekaan) **hingga 1966** (lahirnya Supersemar). Namun, jika melihat opsi yang terbatas, seringkali periode Orde Lama dalam konteks transisi sistem politik merujuk pada **1949-1959** (masa RIS dan Demokrasi Liberal/UUDS 1950) hingga kembalinya UUD 1945. Melihat konteks soal yang berlanjut ke kabinet-kabinet Demokrasi Liberal, periode **1949-1959** (sejak pengakuan kedaulatan/RIS hingga Dekrit Presiden) adalah periode kritisnya."
+  },
+  {
+    "id": 14,
+    "question": "Negara kesatuan yang dibentuk oleh perjanjian tiga negara bagian terwujud pada.....",
+    "options": [
+      "17 Juli 1950",
+      "17 Agustus 1950",
+      "19 Agustus 1950",
+      "19 Agustus 1951",
+      "15 Agustus 1950"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Negara Kesatuan Republik Indonesia (NKRI) kembali dibentuk secara utuh setelah masa RIS pada tanggal **17 Agustus 1950**, menandai berakhirnya masa Republik Indonesia Serikat."
+  },
+  {
+    "id": 15,
+    "question": "Siapa sajakah tiga negara bagian yang membentuk perjanjian hingga mewujudkan negara kesatuan yakni.....",
+    "options": [
+      "Negara Republik Indonesia, Negara Indonesia Timur, dan Negara Irian Barat",
+      "Negara Republik Indonesia, Negara Indonesia Timur, dan Negara Sumatera Timur",
+      "Negara Indonesia Timur, Negara Sumatera Barat, dan Negara Irian Barat",
+      "Negara Irian Barat, Negara Republik Indonesia, Negara Jawa",
+      "Negara Republik Indonesia, Negara Malaysia, Negara Indonesia Timur"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Proses pembentukan kembali Negara Kesatuan (kembali ke NKRI dari RIS) didahului dengan penggabungan sebagian besar negara bagian RIS ke dalam dua negara bagian utama: **Negara Republik Indonesia (RI)** yang berpusat di Yogyakarta, **Negara Indonesia Timur (NIT)**, dan **Negara Sumatera Timur (NST)**. Tiga negara ini (RI, NIT, NST) menandatangani Piagam Persetujuan pada Mei 1950 untuk membentuk negara kesatuan, yang kemudian diresmikan pada 17 Agustus 1950."
+  },
+  {
+    "id": 16,
+    "question": "Apa inti dari dikeluarkannya Dekrit Presiden 5 Juli 1959?",
+    "options": [
+      "Pembubaran Negara Kesatuan",
+      "Berlakunya kembali UUDS 1950",
+      "Berlakunya kembali UUD 1945",
+      "Pembentukan konstituante baru",
+      "Berakhirnya kepemimpinan Soekarno"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Inti dari **Dekrit Presiden 5 Juli 1959** adalah: **1. Pembubaran Konstituante**, **2. Berlakunya kembali UUD 1945**, dan **3. Pembentukan MPRS dan DPAS**."
+  },
+  {
+    "id": 17,
+    "question": "Pada 5 Juli 1959, Presiden Soekarno juga membubarkan konstituante, mengapa?",
+    "options": [
+      "Konsituante dinilai melenceng dari visi awal",
+      "Konstituante memboikot pemerintahan Soekarno",
+      "Antara konstituante dan Soekarno sudah tidak pada satu dasar pemikiran lagi",
+      "Konstituante gagal membentuk konstitusi dan berlarut-larut",
+      "Asas demokratis sudah tak lagi dijunjung konstituante"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Konstituante (badan yang bertugas membuat UUD baru pengganti UUDS 1950) dibubarkan melalui Dekrit Presiden 5 Juli 1959 karena **gagal mencapai kesepakatan untuk membentuk konstitusi baru** meskipun telah bersidang berlarut-larut (tidak ada titik temu dalam perdebatan, terutama mengenai Dasar Negara)."
+  },
+  {
+    "id": 18,
+    "question": "Pada orde lama ini, kondisi politik belumlah stabil sehingga terjadi pergantian kabinet. Berapa kabinetkah yang sempat dialami pada orde lama?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pada masa **Demokrasi Parlementer** (1950-1959) di bawah UUDS 1950, terjadi pergantian kabinet sebanyak **7 kali** (Kabinet Natsir, Sukiman-Suwirjo, Wilopo, Ali Sastroamidjojo I, Burhanuddin Harahap, Ali Sastroamidjojo II, dan Djuanda)."
+  },
+  {
+    "id": 19,
+    "question": "Kabinet Natsir berlangsung pada....",
+    "options": [
+      "1951-1960",
+      "1953-1959",
+      "1951-1959",
+      "1950-1959",
+      "1950-1960"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kabinet Natsir adalah kabinet pertama pada masa Demokrasi Parlementer (UUDS 1950). Kabinet ini menjabat dari **6 September 1950 hingga 21 Maret 1951**."
+  },
+  {
+    "id": 20,
+    "question": "Kabinet Natsir hanya bertahan selama 6,5 bulan. Mengapa hal tersebut terjadi?",
+    "options": [
+      "Kabinet Natsir tidak melaksanakan tugas sesuai mandat Presiden Soekarno",
+      "Kebijakan Natsir dalam rangka pembentukan DPRD dinilai oleh golongan oposisi terlalu banyak menguntungkan Masyumi.",
+      "Kebijakan Natsir yang selalu menitikberatkan pada golongan tua",
+      "Kabinet Natsir lebih banyak membuka hubungan diplomatik dengan luar negeri",
+      "Kabinet Natsir membentuk oposisi baru"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kabinet Natsir jatuh karena adanya mosi tidak percaya yang diajukan oleh PNI (Hardikusumo) mengenai **masalah Irian Barat** dan terutama mengenai **pembentukan DPRD** yang dinilai menguntungkan Masyumi (partai Natsir) oleh oposisi."
+  },
+  {
+    "id": 21,
+    "question": "Pada Kabinet Natsir juga terjadi gejolak di daerah, diantaranya pemberontakan di Aceh, yang bernama...",
+    "options": [
+      "Andi Azis",
+      "APRA",
+      "RMS",
+      "Pemberontakan Aceh",
+      "DI/TII"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Pada masa Kabinet Natsir (dan kabinet-kabinet berikutnya), terjadi berbagai pemberontakan di daerah, termasuk yang paling menonjol adalah **DI/TII** (Darul Islam/Tentara Islam Indonesia), yang juga bergejolak di Aceh di bawah Daud Beureueh."
+  },
+  {
+    "id": 22,
+    "question": "Kapankah PM Natsir menyerahkan mandatnya kembali ke Soekarno?",
+    "options": [
+      "22 April 1951",
+      "23 Maret 1950",
+      "27 Maret 1951",
+      "21 Maret 1951",
+      "19 Maret 1953"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Mohammad Natsir menyerahkan mandatnya kepada Presiden Soekarno pada tanggal **21 Maret 1951** setelah mosi tidak percaya diterima oleh parlemen."
+  },
+  {
+    "id": 23,
+    "question": "Pada 1951-1952 terdapat kabinet....",
+    "options": [
+      "Kabinet Natsir",
+      "Kabinet Wilopo",
+      "Kabinet Ali Sastroamidjoyo",
+      "Kabinet Burhanuddin Harahap",
+      "Kabinet Sukiman-Suwirjo"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Urutan kabinet Demokrasi Parlementer adalah Natsir (1950-1951), **Sukiman-Suwirjo (27 April 1951 - 23 Februari 1952)**, Wilopo (1952-1953), Ali Sastroamidjojo I (1953-1955), Burhanuddin Harahap (1955-1956), Ali Sastroamidjojo II (1956-1957), dan Djuanda (1957-1959)."
+  },
+  {
+    "id": 24,
+    "question": "Menjalankan politik luar negeri bebas aktif, pada awalnya adalah program daripada kabinet....",
+    "options": [
+      "Kabinet Wilopo",
+      "Kabinet Sukiman-Suwirjo",
+      "Kabinet Burhanuddin Harahap",
+      "Kabinet Ali Sastroamidjoyo",
+      "Kabinet Ali Sastroamidjoyo II"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Program Kabinet Sukiman-Suwirjo (1951-1952) salah satunya adalah menjalankan politik luar negeri bebas aktif serta memperjuangkan masalah Irian Barat."
+  },
+  {
+    "id": 25,
+    "question": "Ditandatanganinya beberapa kerjasama dengan pihak negara Amerika Serikat termasuk dalam bidang ekonimi, teknologi, dan persenjataan. Namun pada perkembangannya dinilai tidak sesuai dengan konsep politik luar negeri bebas aktif sehingga mengakibatkan jatuhnya kabinet....",
+    "options": [
+      "Kabinet Ali Sastroamidjoyo II",
+      "Kabinet Djuanda",
+      "Kabinet Wilopo",
+      "Kabinet Sukirman-Suwirjo",
+      "Kabinet Natsir"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Penandatanganan **Mutual Security Act (MSA)** dengan Amerika Serikat oleh Menteri Luar Negeri Achmad Subardjo (Kabinet Sukiman) dinilai melanggar prinsip politik luar negeri **Bebas Aktif** karena dianggap terlalu condong ke Blok Barat. Hal ini memicu mosi tidak percaya dan berujung pada jatuhnya **Kabinet Sukiman-Suwirjo**."
+  },
+  {
+    "id": 26,
+    "question": "Kabinet Ali Sastroamidjoyo I sering juga disebut dengan kabinet....",
+    "options": [
+      "Kabinet Ali Wongso",
+      "Kabinet Ali Warso",
+      "Kabinet KAA",
+      "Kabinet Perombakan",
+      "Kabinet Ali Sadar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kabinet Ali Sastroamidjoyo I (1953-1955) dikenal juga sebagai **Kabinet KAA** karena pada masa inilah Indonesia berhasil menyelenggarakan **Konferensi Asia Afrika** (KAA) di Bandung pada April 1955."
+  },
+  {
+    "id": 27,
+    "question": "Konferensi Asia Afrika berhasil digelar pada masa kabinet....",
+    "options": [
+      "Kabinet Djuanda",
+      "Kabinet Natsir",
+      "Kabinet Ali Sastroamidjoyo I",
+      "Kabinet Ali Sastroamidjoyo II",
+      "Kabinet Wilopo"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Konferensi Asia Afrika (KAA) berhasil dilaksanakan pada masa pemerintahan **Kabinet Ali Sastroamidjoyo I** (April 1955)."
+  },
+  {
+    "id": 28,
+    "question": "Kabinet Burhanuddin Harahap berlangsung pada...",
+    "options": [
+      "1951-1952",
+      "1953-1960",
+      "1955-1956",
+      "1957-1958",
+      "1959-1960"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kabinet Burhanuddin Harahap berlangsung dari **12 Agustus 1955 hingga 3 Maret 1956**."
+  },
+  {
+    "id": 29,
+    "question": "Pada masa Kabinet Burhanuddin, terjadi peristiwa penting nasional berupa....",
+    "options": [
+      "Berhasil dilaksanakan Konferensi Asia Afrika",
+      "Dilaksanakan pemilihan konstituante",
+      "Dilaksanakan pemilihan umum",
+      "Dilaksanakan politik bebas aktif",
+      "Berhasil disatukannya Irian Barat ke Indonesia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Peristiwa penting nasional yang berhasil dilaksanakan oleh **Kabinet Burhanuddin Harahap** adalah penyelenggaraan **Pemilihan Umum pertama** di Indonesia pada tahun **1955** (untuk memilih anggota DPR dan Konstituante)."
+  },
+  {
+    "id": 30,
+    "question": "Pembentukan MPRS dan DPAS diawali dengan dikeluarkannya...",
+    "options": [
+      "Perjanjian dengan Amerika Serikat pada kabinet orde lama",
+      "Dekrit Presiden 5 Juli 1959",
+      "Supersemar",
+      "UUD 1945",
+      "Kebijakan politik luar negeri bebas aktif"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pembentukan **MPRS** (Majelis Permusyawaratan Rakyat Sementara) dan **DPAS** (Dewan Pertimbangan Agung Sementara) adalah bagian dari isi **Dekrit Presiden 5 Juli 1959**."
+  },
+  {
+    "id": 31,
+    "question": "Setelah pemerintahan Soekarno lahirlah pemerintahan pengganti yang disebut dengan orde baru, hal itu ditandai dengan....",
+    "options": [
+      "Dekrit Presiden 5 Juli 1959",
+      "Supersemar",
+      "UUDS 1950",
+      "Lengsernya Kabinet Ali Sastroamidjoyo II",
+      "Transformasi dari kabinet Natsir ke kabinet Wilopo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lahirnya pemerintahan **Orde Baru** secara formal ditandai dengan dikeluarkannya **Surat Perintah Sebelas Maret (Supersemar)** pada tanggal **11 Maret 1966**, yang memberikan mandat kepada Letjen Soeharto untuk mengambil tindakan yang dianggap perlu untuk menjamin keamanan dan ketenangan."
+  },
+  {
+    "id": 32,
+    "question": "Kapan tepatnya Supersemar dikeluarkan?",
+    "options": [
+      "11 Maret 1969",
+      "11 Maret 1967",
+      "11 Maret 1959",
+      "11 Maret 1966",
+      "11 Maret 1970"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Supersemar dikeluarkan pada tanggal **11 Maret 1966**."
+  },
+  {
+    "id": 33,
+    "question": "Sebagai tindak lanjut dari Supersemar, apa yang dilakukan Letjen Soeharto terkait dalam kebijakan politik selanjutnya?",
+    "options": [
+      "Membubarkan kepemimpinan Soekarno",
+      "Menumbuhkan ormas-ormas baru bentukan Soeharto",
+      "Membubarkan dan melarang PKI serta ormas yang bernaung atau berlindung atau senada dengannya untuk beraktivitas dan hidup di wilayah Indonesia",
+      "Membuat kabinet tandingan dari kabinet pada mas Soekarno",
+      "Membawa Soekarno kepengasingan"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Tindakan pertama dan paling penting yang dilakukan oleh Letjen Soeharto setelah menerima Supersemar adalah **membubarkan dan melarang PKI (Partai Komunis Indonesia)** beserta ormas-ormas yang berafiliasi dengannya, karena dianggap sebagai dalang dari peristiwa G30S/PKI."
+  },
+  {
+    "id": 34,
+    "question": "Pada tanggal 20 Juni hingga 5 Juli 1955 dilaksanakanlah sidang Umum IV MPRS yang salah satunya melahirkan konsepsi yang juga tertera di dalam....",
+    "options": [
+      "Trikora",
+      "Tritura",
+      "Dwikora",
+      "Supersemar",
+      "Konstitusi RIS"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sidang Umum IV MPRS (Juni-Juli 1966) melahirkan Tap MPRS No. XXV/MPRS/1966 yang memuat larangan PKI dan ajaran Komunisme/Marxisme-Leninisme (sejalan dengan tuntutan **Tritura**). Selain itu, MPRS juga mengukuhkan Supersemar."
+  },
+  {
+    "id": 35,
+    "question": "Kabinet yang berhasil dibentuk setelah Supersemar sebagai penyempurnaan dari Tritura yakni...",
+    "options": [
+      "Kabinet Djuanda",
+      "Kabinet Repelita",
+      "Kabinet Dwikora",
+      "Kabinet Ampera",
+      "Kabinet Dwidharma"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Setelah Supersemar dan tuntutan Tritura, dibentuklah **Kabinet Ampera** (Amanat Penderitaan Rakyat) pada Juli 1966, yang menggantikan Kabinet Dwikora yang berorientasi Soekarno."
+  },
+  {
+    "id": 36,
+    "question": "Dualisme kepemimpinan yang terjadi setelah sidang Umum IV MPRS disebabkan oleh...",
+    "options": [
+      "Soeharto mulai memasuki ranah pemerintahan Soekarno dengan menggunakan dalih Tritura",
+      "Kabinet Ampera dipimpin oleh Soekarno tetapi dilaksanakan oleh Presidium Kabinet yakni Soeharto",
+      "Pendirian kabinet Ampera yang masih bias tujuan",
+      "Soeharto menggunakan rakyat sebagai dukungan atas politik yang berusaha dibangunnya",
+      "Nepotisme yang mulai terjadi di tubuh pemerintahan yang melibatkan keluarga Soeharto"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dualisme kepemimpinan (antara Soekarno dan Soeharto) terjadi karena **Kabinet Ampera secara resmi dipimpin oleh Presiden Soekarno**, tetapi **pelaksanaan tugas sehari-hari dan penentuan kebijaksanaan dilakukan oleh Presidium Kabinet yang diketuai oleh Letjen Soeharto**."
+  },
+  {
+    "id": 37,
+    "question": "Puncak daripada situasi konflik pada era Kabinet Ampera adalah....",
+    "options": [
+      "Presiden Soekarno membubarkan PKI",
+      "Presiden Soekarno menandatangani perjanjian stabilitas politik dengan Soeharto",
+      "Dibubarkannya Kabinet Ampera",
+      "Presiden Soekarno menyerahkan kekuasaan kepada Letjend Soeharto",
+      "Sidang Istimewa MPRS tanggal 7-12 Maret 1967"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Puncak konflik dualisme kepemimpinan (Kabinet Ampera) adalah **penyerahan kekuasaan eksekutif dari Presiden Soekarno kepada Jenderal Soeharto** (sebagai Pejabat Presiden) melalui Sidang Istimewa MPRS tanggal **7-12 Maret 1967** (Tap MPRS No. XXXIII/MPRS/1967), yang kemudian melengserkan Soekarno dari jabatan Presiden."
+  },
+  {
+    "id": 38,
+    "question": "Sebagai tindakan pengamanan, keamanan dan stabilisasi pemerintahan, Jenderal Soeharto membubarkan PKI dan melarang perkembangannya di Indonesia, kecuali itu dilakukan pula.....",
+    "options": [
+      "Penangkapan tokoh-tokoh politik",
+      "Pengamanan orang-orang yang mendukung Soekarno dalam mendirikan partai komunis",
+      "Pengamanan 15 menteri yang diduga terlibat G30S/PKI",
+      "Mengadakan sidang MPRS guna menentukan langkah selanjutnya",
+      "Pemberhentian jenderal-jenderal yang diduga terlibat G30S/PKI"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sebagai tindak lanjut Supersemar dan setelah pembubaran PKI, Soeharto juga melakukan tindakan pengamanan terhadap aparat negara dengan **mengamankan 15 menteri Kabinet Dwikora** yang diduga terlibat G30S/PKI atau mendukung Presiden Soekarno."
+  },
+  {
+    "id": 39,
+    "question": "Salah satu dampak ekonomi daripada gejolak demokrasi terkait pembubaran PKI, yang sangat dirasakan rakyat adalah.....",
+    "options": [
+      "Naiknya harga-harga barang salah satunya BBM",
+      "Diberlakukannya subsidi di beberapa sektor ekonomi",
+      "Penguasaan beberapa sektor ekonomi oleh pemerintah sehingga rakyat termarginalisasi",
+      "Adanya kelangkaan bahan-bahan pokok di pasar",
+      "Kurs mata uang RI yang semakin melemah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pada masa transisi (1965-1966), situasi politik yang tidak stabil berdampak langsung pada ekonomi yang kacau, ditandai dengan **inflasi tinggi** dan **kenaikan harga-harga barang** secara drastis (termasuk BBM dan bahan pokok). Opsi E (Kurs mata uang RI yang semakin melemah) juga benar, tetapi **inflasi dan kenaikan harga (Opsi A)** adalah dampak yang paling cepat dirasakan langsung oleh rakyat."
+  },
+  {
+    "id": 40,
+    "question": "Dalam masa pemerintahan Orde baru, terjadi pemilihan umum sebanyak...",
+    "options": [
+      "5 kali",
+      "6 kali",
+      "7 kali",
+      "8 kali",
+      "9 kali"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Masa Orde Baru (1966-1998) menyelenggarakan Pemilihan Umum (Pemilu) sebanyak **6 kali**, yaitu pada tahun **1971, 1977, 1982, 1987, 1992, dan 1997**."
+  },
+  {
+    "id": 41,
+    "question": "Pada masa pemilu Orde Baru, Golkar selalu menjadi partai yang mayoritas mendapatkan suara terbanyak, sedangkan di sisi lain pada 1997 terdapat partai yang justru mengalami perpecahan yaitu....",
+    "options": [
+      "PAN",
+      "PKS",
+      "PDI",
+      "PPP",
+      "PKB"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pada tahun **1996**, terjadi konflik internal di tubuh **PDI (Partai Demokrasi Indonesia)** yang memuncak dengan penyerbuan kantor PDI (Peristiwa Kudatuli). Perpecahan ini terjadi menjelang Pemilu 1997, yang semakin melemahkan PDI dalam menghadapi Golkar."
+  },
+  {
+    "id": 42,
+    "question": "Dalam perjalanan Orde Baru, terkenal sebutan peran ganda ABRI, yaitu berupa peran....",
+    "options": [
+      "Peran Hankam dan Sosial",
+      "Peran Ekonomi dan Militer",
+      "Peran Sosial dan Ekonomi",
+      "Peran Abdi Negara dan Sosial",
+      "Peran Hankam dan Ekonomi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Konsep **Dwi Fungsi ABRI** (Angkatan Bersenjata Republik Indonesia) pada masa Orde Baru mencakup dua peran utama: **Peran Hankam (Pertahanan Keamanan)** dan **Peran Sosial Politik** (terlibat dalam pemerintahan dan pembangunan)."
+  },
+  {
+    "id": 43,
+    "question": "Asas tunggal daripada pemerintahan demokrasi jaman Orde Baru adalah....",
+    "options": [
+      "UUD 1945",
+      "Demokrasi",
+      "Pancasila",
+      "GBHN",
+      "Bhineka Tunggal Ika"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pemerintah Orde Baru menetapkan **Pancasila** sebagai **Asas Tunggal** bagi semua organisasi politik dan organisasi kemasyarakatan di Indonesia (melalui UU No. 3 Tahun 1985 dan UU No. 8 Tahun 1985)."
+  },
+  {
+    "id": 44,
+    "question": "Beberapa kebijakan terkait dengan kerjasama luar negeri yang ditempuh Indonesia pada masa awal Orde Baru, memunculkan Pertemuan Amsterdam yaitu....",
+    "options": [
+      "Pertemuan yang berisikan bahwa devisa ekspor yang diperoleh Indonesia akan digunakan untuk membayar utang",
+      "Pertemuan tentang kerjasama bantuan pinjaman yang sifatnya lunas dari Belanda",
+      "Pertemuan mengenai pembayaran hutang yang diangsur dengan pihak Tokyo",
+      "Pertemuan membahas hutang pokok selama 30 tahun dengan Belanda",
+      "Pertemuan mengenai perpanjangan waktu pelunasan hutang Indonesia-Tokyo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pertemuan Amsterdam pada tahun 1966 merupakan salah satu langkah awal Orde Baru untuk menstabilkan ekonomi dengan negara kreditur. Intinya adalah mengenai **pengaturan kembali utang-utang luar negeri** Indonesia, termasuk kesepakatan bahwa **devisa ekspor yang diperoleh Indonesia akan digunakan untuk membayar utang**."
+  },
+  {
+    "id": 45,
+    "question": "Berikut yang dialami warga Tionghoa secara sosial politik pada masa Orde Baru, kecuali....",
+    "options": [
+      "Kesenian Barongsai dilarang untuk tampil",
+      "Kedudukan sosial berada di bawah pribumi",
+      "Diperbolehkannya perayaan Imlek",
+      "Warga negara Tionghoa dilarang berekspresi",
+      "Dilarangnya penggunaan Bahasa Mandarin"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pada masa Orde Baru, terjadi pengekangan terhadap kebudayaan Tionghoa. **Perayaan Imlek dilarang** di ruang publik (sampai dicabut pada era Reformasi). Opsi C, **Diperbolehkannya perayaan Imlek**, adalah yang **tidak benar** (kecuali) terjadi pada masa Orde Baru."
+  },
+  {
+    "id": 46,
+    "question": "Persatuan dan kesatuan adalah hal yang selalu didengungkan pada masa Orde Baru, salah satu perwujudan usaha nyata yang dilakukan pada masa tersebut adalah....",
+    "options": [
+      "Adanya penerapan P4 dalam kehidupan rakyat",
+      "Pemilu yang merujuk pada satu partai saja",
+      "Adanya program transmigrasi",
+      "Membatasi warga selain pribumi untuk ikut andil dalam urusan politik dan ekonomi kerakyatan",
+      "Pengelolaan sumber daya alam yang terpusat pada satu yaitu pemerintah saja"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Salah satu program besar Orde Baru yang bertujuan untuk pemerataan penduduk dan **memperkuat persatuan/integrasi nasional** (dengan menyatukan berbagai suku di daerah baru) adalah **program transmigrasi** (perpindahan penduduk dari daerah padat ke daerah jarang)."
+  },
+  {
+    "id": 47,
+    "question": "Pada masa Soekarno, terdapat jajak pendapat yang disebut Pepera. Isi daripada Pepera adalah....",
+    "options": [
+      "Rakyat Irian Barat memilih Soekarno untuk tetap memimpin Negara Kesatuan RI",
+      "Irian Barat memilih bergabung ke dalam Negara Kesatuan RI",
+      "Terbaginya wilayah Irian Barat menjadi dua bagian",
+      "Keinginan rakyat Irian Barat untuk merdeka menjadi negara sendiri",
+      "Negara Kesatuan RI menyerahkan Irian Barat kepada pihak Belanda"
+    ],
+    "correctAnswer": 1,
+    "explanation": "**Pepera (Penentuan Pendapat Rakyat)** yang dilaksanakan di Irian Barat (sekarang Papua) pada tahun 1969 menghasilkan keputusan bahwa **Rakyat Irian Barat memilih untuk tetap bergabung dengan Negara Kesatuan RI**."
+  },
+  {
+    "id": 48,
+    "question": "Transmigrasi sebagai program nasional yang dicanangkan pemerintah tak selalu membuat hasil positif terutama bagi rakyat. Salah satu dampak negatifnya adalah....",
+    "options": [
+      "Terbaginya lahan di negara tujuan transmigran",
+      "Daerah yang ditinggalkan menjadi tandus",
+      "Adanya kecemburuan antara warga asli tujuan transmigran dengan warga pendatang",
+      "Pudarnya silsilah ras atau suku di daerah yang ditinggalkan",
+      "Pudarnya rasa kesukuan yang sangat di negara tujuan transmigran"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dampak negatif utama dari program transmigrasi adalah sering timbulnya **konflik sosial dan kecemburuan** (atau gesekan budaya) antara **warga asli/lokal** dengan **warga pendatang** (transmigran) terkait perebutan sumber daya alam dan lahan."
+  },
+  {
+    "id": 49,
+    "question": "Konflik yang meruncing hingga memasuki awal era reformasi akibat dari adanya dampak negatif program transmigrasi bisa terlihat nyata dalam....",
+    "options": [
+      "Konflik laten Jawa-Madura",
+      "Konflik laten Dayak-Madura",
+      "Konflik laten Ambon-Padang",
+      "Konflik laten Ambon-Jambi",
+      "Konflik laten NTB-Dayak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Salah satu konflik paling menonjol yang melibatkan kelompok transmigran dan meruncing pada awal Reformasi (1997-2001) adalah **Konflik Sampit** dan berbagai konflik lainnya antara **suku Dayak** (warga asli Kalimantan Tengah) dengan **suku Madura** (sebagai transmigran)."
+  },
+  {
+    "id": 50,
+    "question": "Pada masa menjelang berakhirnya kepemimpinan Orde Baru, diikuti dengan gejolak di beberapa bidang yang berupa....",
+    "options": [
+      "Rupiah jatuh, inflasi meningkat tajam",
+      "Harga minyak dan komoditas ekspor semakin menguat",
+      "Perpindahan modal diberikan keleluasaan",
+      "Para demonstran meminta Soeharto tetap bertahan menjadi Presiden RI",
+      "Penanaman modal semakin bertambah masuk ke Indonesia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Masa akhir Orde Baru ditandai dengan krisis moneter Asia pada tahun 1997/1998, yang menyebabkan gejolak ekonomi parah, ditandai dengan **nilai tukar Rupiah jatuh drastis** dan **inflasi (kenaikan harga) yang meningkat tajam**."
+  },
+  {
+    "id": 51,
+    "question": "Era Orde Baru berakhir dengan ditandai adanya kemunduran Soeharto dari jabatan kepresidenan, yaitu pada...",
+    "options": [
+      "22 Mei 1998",
+      "20 Mei 1998",
+      "20 Juni 1998",
+      "19 Mei 1998",
+      "21 Mei 1998"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Presiden Soeharto mengumumkan pengunduran dirinya dari jabatan kepresidenan pada tanggal **21 Mei 1998** di Istana Merdeka, Jakarta, yang secara resmi menandai berakhirnya Orde Baru dan dimulainya Era Reformasi."
+  },
+  {
+    "id": 52,
+    "question": "Pada masa transformasi dari Era Orde Baru ke Era Reformasi diikuti dengan lepasnya salah satu wilayah Indonesia, yaitu....",
+    "options": [
+      "Aceh",
+      "Irian Barat",
+      "Timor Timur",
+      "NTT",
+      "Maluku"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pada masa transisi awal Reformasi (di bawah pemerintahan B.J. Habibie), melalui referendum pada tahun 1999, **Timor Timur** memilih untuk memisahkan diri dari Negara Kesatuan Republik Indonesia dan kemudian menjadi negara merdeka Timor Leste."
+  },
+  {
+    "id": 53,
+    "question": "Pada masa kepemimpinan Megawati dikenal dengan sebutan pemerintahan ‘dingin’ dikarenakan...",
+    "options": [
+      "Kecekatan beliau dalam menangani permasalahan negara",
+      "Kegigihan beliau dalam menjalin kerjasama dengan luar negeri",
+      "Adanya aktivitas terorisme yang makin marak",
+      "Sikap Megawati yang jarang berkomunikasi dengan masyarakat",
+      "Sikap Indonesia yang tidak mau bekerjasama dengan pihak luar negeri"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Gaya kepemimpinan Presiden Megawati Soekarnoputri sering digambarkan sebagai **'dingin' atau 'pendiam'** karena beliau **jarang berkomunikasi atau berinteraksi langsung** (blusukan) dengan masyarakat atau media, berbeda dengan pendahulunya."
+  },
+  {
+    "id": 54,
+    "question": "Hak, wewenang, dan kewajiban daerah otonom untuk mengatur dan mengurus sendiri urusan pemerintahan dan kepentingan masyarakat setempat sesuai dengan peraturan perundang-undangan adalah merupakan pengertian dari....",
+    "options": [
+      "Daerah otonom",
+      "Daerah teritorial",
+      "Otonomi daerah",
+      "Kewenangan daerah",
+      "Daerah istimewa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Definisi tersebut merujuk pada **Otonomi Daerah** (otda), yaitu hak dan kewenangan yang dimiliki daerah untuk mengurus rumah tangganya sendiri."
+  },
+  {
+    "id": 55,
+    "question": "Kesatuan masyarakat hukum yang mempunyai batas-batas wilayah yang berwenang mengatur dan mengurus urusan pemerintahan dan kepentingan masyarakat setempat menurut prakarsa sendiri berdasarkan aspirasi masyarakat dalam sistem Negara Kesatuan Republik Indonesia adalah merupakan pengertian dari....",
+    "options": [
+      "Daerah otonom",
+      "Daerah teritorial",
+      "Otonomi daerah",
+      "Kewenangan daerah",
+      "Daerah istimewa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Definisi tersebut merujuk pada **Daerah Otonom** (provinsi, kabupaten/kota), yaitu kesatuan masyarakat hukum yang diberi hak otonomi."
+  },
+  {
+    "id": 56,
+    "question": "Beberapa kewenangan dan bidang sejak adanya otonomi daerah secara otomatis di serahkan pada daerah masing-masing, namun ada beberapa bidang yang masih tetap dipegang pemerintah pusat, kecuali....",
+    "options": [
+      "Politik luar negeri",
+      "pertahanan, keamanan",
+      "yustisi, moneter",
+      "fiskal nasional serta agama",
+      "Pengelolaan kawasan perkotaan"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Lima bidang yang mutlak menjadi kewenangan Pemerintah Pusat (disebut 'urusan pemerintahan absolut') adalah: **politik luar negeri, pertahanan, keamanan, yustisi, moneter, dan fiskal nasional, serta agama**. Opsi E, **Pengelolaan kawasan perkotaan**, termasuk dalam urusan pemerintahan umum atau urusan pilihan yang diserahkan kepada daerah."
+  },
+  {
+    "id": 57,
+    "question": "Penugasan dari pemerintah kepada daerah dan atau desa dari pemerintah provinsi kepada kabupaten/kota dan atau desa serta dari pemerintah kabupaten/kota kepada desa untuk melaksanakan tugas tertentu adalah merupakan pengertian dari....",
+    "options": [
+      "Desentralisasi",
+      "Dekonsentrasi",
+      "Tugas pembantuan",
+      "Tugas pelimpahan",
+      "Sentralisasi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pemberian tugas dari tingkat pemerintahan yang lebih tinggi kepada tingkat di bawahnya, disertai pembiayaan, sarana, dan SDM, disebut **Tugas Pembantuan** (Medebewind)."
+  },
+  {
+    "id": 58,
+    "question": "Pelimpahan wewenang pemerintahan oleh pemerintah kepada gubernur sebagai wakil pemerintah dan atau kepada instansi vertikal di wilayah tertentu adalah merupakan pengertian dari...",
+    "options": [
+      "Desentralisasi",
+      "Dekonsentrasi",
+      "Tugas Pembantuan",
+      "Tugas Pelimpahan",
+      "Sentralisasi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pelimpahan wewenang dari pemerintah pusat kepada aparat di daerah (misalnya Gubernur) untuk melaksanakan urusan pemerintah pusat disebut **Dekonsentrasi**."
+  },
+  {
+    "id": 59,
+    "question": "Pemilihan langsung Presiden dan wakilnya; pertama kali terjadi di...",
+    "options": [
+      "Pemerintahan Gus Dur ke Megawati",
+      "Pemerintahan Soekarno ke Soeharto",
+      "Pemerintahan Megawati ke SBY",
+      "Pemerintahan Gus Dur ke SBY",
+      "Pemerintahan Habibie ke Gus Dur"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pemilihan Presiden dan Wakil Presiden secara langsung oleh rakyat baru dilaksanakan pertama kali pada tahun **2004**. Pemilu ini melibatkan Presiden **Megawati** (sebagai petahana) dan dimenangkan oleh **SBY** (Susilo Bambang Yudhoyono)."
+  },
+  {
+    "id": 60,
+    "question": "Kabinet yang dibangun pada masa pemerintahan Megawati Soekarno Putri adalah...",
+    "options": [
+      "Kabinet Reformasi Pembangunan",
+      "Kabinet Gotong Royong",
+      "Kabinet Persatuan Nasional",
+      "Kabinet Indonesia Satu",
+      "Kabinet Ampera"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Setelah menggantikan Gus Dur, Presiden Megawati Soekarnoputri membentuk **Kabinet Gotong Royong** (2001-2004)."
+  },
+  {
+    "id": 61,
+    "question": "Dalam era kepemimpinan Habibie memberikan kebebasan politik pada rakyat, hal ini terbukti dengan munculnya parpol sebanyak....",
+    "options": [
+      "50 parpol",
+      "38 parpol",
+      "48 parpol",
+      "58 parpol",
+      "30 parpol"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Setelah era Orde Baru yang membatasi partai politik hanya menjadi tiga, di bawah pemerintahan B.J. Habibie terjadi kebebasan politik yang ditandai dengan disahkannya UU No. 2 Tahun 1999, yang memungkinkan **48 partai politik** untuk ikut serta dalam Pemilu 1999."
+  },
+  {
+    "id": 62,
+    "question": "Referendum Timor Timur yang dilakukan Habibie membawa dampak positif dan negatif, bagi Negara Indonesia. Dampak positifnya yaitu....",
+    "options": [
+      "Wilayah Indonesia menjadi berkurang",
+      "Terbentuknya negara baru, sehingga warga harus memiliki kejelasan kewarganegaraan baru",
+      "Terpecahnya masyarakat Indonesia",
+      "Indonesia terbebas dari tuduhan pelanggaran HAM",
+      "Warga Negara Timor Leste yang ingin ke Indonesia harus membuat paspor"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dengan membiarkan Timor Timur menentukan nasib sendiri, salah satu dampak positif yang didapat Indonesia di mata internasional adalah **terbebas dari sebagian besar tuduhan pelanggaran HAM** yang selama ini terjadi di Timor Timur."
+  },
+  {
+    "id": 63,
+    "question": "Unit Kerja Presiden Pengelolaan Program dan Reformasi (UKP4R) adalah merupakan lembaga yang dibentuk pada masa....",
+    "options": [
+      "Soeharto",
+      "Habibie",
+      "Gus Dur",
+      "Megawati",
+      "Susilo Bambang Yudhoyono"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Lembaga **UKP4R** (kemudian berganti nama menjadi UKP-PPP dan terakhir UKP4 - Unit Kerja Presiden Bidang Pengawasan dan Pengendalian Pembangunan) adalah lembaga non-struktural yang dibentuk pada masa pemerintahan **Presiden Susilo Bambang Yudhoyono** (SBY) untuk mengawasi program pembangunan."
+  },
+  {
+    "id": 64,
+    "question": "Berikut adalah partai yang masuk dalam kabinet Gus Dur, yaitu...",
+    "options": [
+      "PDI-P, PAN, PKS",
+      "PDI-P, PPP, GOLKAR, Partai Keadilan (PK)",
+      "PDI-P, PKB, Golkar, PPP, PAN, dan Partai Keadilan (PK)",
+      "PKB, PPP, Golkar, PAN, dan PKS",
+      "PDI-P, PKB, PPP, Golkar, PAN, dan PBB"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kabinet Gus Dur (Kabinet Persatuan Nasional) merupakan kabinet koalisi yang besar, didukung oleh banyak partai termasuk **PDI-P, PKB, Golkar, PPP, PAN, dan Partai Keadilan (PK)**, serta beberapa partai kecil lainnya."
+  },
+  {
+    "id": 65,
+    "question": "Pada masa Gus Dur, Aceh juga diberikan referendum. Referendum yang dimaksud adalah....",
+    "options": [
+      "Aceh berhak memilih apakah tetap menjadi bagian Negara Indonesia atau melepaskan diri",
+      "Aceh harus lepas dan mendirikan negara sendiri",
+      "Aceh diberikan hak otonomi",
+      "Aceh tidak boleh lepas dari Indonesia",
+      "Aceh boleh lepas asalkan tetap memakai dasar negara Indonesia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gus Dur menawarkan referendum untuk Aceh, namun bukan referendum kemerdekaan (seperti Timor Timur), melainkan referendum tentang **Otonomi Khusus** (Opsi C) atau 'referendum syariat Islam', yang kemudian diwujudkan melalui UU No. 18 Tahun 2001 tentang Otonomi Khusus bagi Provinsi Nanggroe Aceh Darussalam (NAD)."
+  },
+  {
+    "id": 66,
+    "question": "Kabinet Indonesia Bersatu II disusun berdasarkan usulan dari partai yang berhasil duduk di DPR waktu itu, yakni....",
+    "options": [
+      "Demokrat, PKS, PAN, PPP",
+      "Demokrat, PKS, PAN, PKB",
+      "Demokrat, PAN, PKB, PPP",
+      "Demokrat, PKS, PAN, PPP, PKB, Golkar",
+      "Demokrat, PKS, PAN, PPP, Golkar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kabinet Indonesia Bersatu II (2009-2014) adalah kabinet koalisi yang sangat besar yang dipimpin oleh SBY. Partai-partai utama yang berkoalisi dan menyusun kabinet ini antara lain **Partai Demokrat, PKS, PAN, PPP, PKB, dan Golkar**."
+  },
+  {
+    "id": 67,
+    "question": "Kapankah perombakan yang dilakukan SBY dilakukan terhadap Kabinet Indonesia Bersatu II?",
+    "options": [
+      "17 Oktober 2010",
+      "17 Oktober 2011",
+      "18 Oktober 2011",
+      "18 September 2011",
+      "19 Oktober 2010"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Perombakan (reshuffle) Kabinet Indonesia Bersatu II (KIB II) dilakukan oleh Presiden SBY pada tanggal **17 Oktober 2011**."
+  },
+  {
+    "id": 68,
+    "question": "Di Indonesia, terdapat beberapa daerah yang memiliki otonomi khusus, yakni...",
+    "options": [
+      "DKI, Aceh, Maluku",
+      "DKI, Aceh, Palembang",
+      "Aceh, Papua, dan Jambi",
+      "Aceh, DKI, Papua, Papua Barat",
+      "DKI, Aceh, Papua Barat, dan Solo"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Daerah-daerah di Indonesia yang memiliki status **Otonomi Khusus** (Otsus) adalah: **DKI Jakarta** (sebagai ibukota negara), **Aceh** (dengan status Nanggroe Aceh Darussalam), **Provinsi Papua**, dan **Provinsi Papua Barat**."
+  },
+  {
+    "id": 69,
+    "question": "Paham anti cina yang gencar di lakukan pada Orde Baru sebenarnya memiliki tujuan yang dilatarbelakangi oleh sebab utama yaitu...",
+    "options": [
+      "Paham politik anti cina sama dengan anti komunis",
+      "Cina menduduki sebagian wilayah kekuasaan indonesia",
+      "Golongan pribumi tidak suka karena cina menduduki kelas di atasnya",
+      "Soeharto menginginkan cabang-cabang produksi negara dipegang oleh pribumi",
+      "Orang cina sukar diajak bekerjasama"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pada masa Orde Baru, kebijakan anti-Tionghoa (Cina) didasarkan pada anggapan bahwa **China R.R. memiliki keterkaitan dengan PKI (Komunis)**. Propaganda Orde Baru menyamakan (atau mengaitkan) 'anti-Cina' dengan **'anti-komunis'**, yang merupakan landasan ideologi Orde Baru."
+  },
+  {
+    "id": 70,
+    "question": "Pengelompokkan anggota MPR yang mencerminkan konfigurasi partai politik disebut juga....",
+    "options": [
+      "Parpol",
+      "Fraksi",
+      "Dewan",
+      "Panitia Ad Hoc",
+      "Anggota"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Di dalam lembaga legislatif (DPR dan MPR), **Fraksi** adalah pengelompokan anggota berdasarkan kesamaan ideologi dan pandangan politik, yang biasanya mencerminkan konfigurasi partai politik yang lolos ke parlemen."
+  },
+  {
+    "id": 71,
+    "question": "Pada masa reformasi, MPR berkedudukan....",
+    "options": [
+      "Merupakan lembaga tertinggi negara",
+      "Sejajar dengan rakyat",
+      "Merupakan lembaga nonstruktural",
+      "Merupakan lembaga yang di bawah Presiden dan wakil Presiden",
+      "Merupakan lembaga tinggi negara yang sejajar dengan lembaga negara lainnya"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Setelah amandemen UUD 1945, kedudukan **MPR (Majelis Permusyawaratan Rakyat) tidak lagi sebagai lembaga tertinggi negara**, melainkan sebagai **lembaga tinggi negara** yang kedudukannya **sejajar** dengan lembaga tinggi negara lainnya (seperti Presiden, DPR, DPD, MA, MK, BPK)."
+  },
+  {
+    "id": 72,
+    "question": "Perubahan Undang-Undang Dasar yang mendukung adanya pernyataan perubahan kedudukan MPR tertera dalam....",
+    "options": [
+      "Pasal 1 ayat (1)",
+      "Pasal 1 ayat (2)",
+      "Pasal 3 ayat (2)",
+      "Pasal 2 ayat (1)",
+      "Pasal 3 ayat (1)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Perubahan kedudukan MPR didukung oleh perubahan **Pasal 1 ayat (2)** UUD 1945 (setelah amandemen), yang berbunyi 'Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar'. Pernyataan ini menghilangkan posisi MPR sebagai pelaksana tunggal kedaulatan rakyat."
+  },
+  {
+    "id": 73,
+    "question": "Sidang MPR sah apabila...",
+    "options": [
+      "Sekurang-kurangnya dihadiri 3/4 dari jumlah Anggota MPR untuk memutus usul DPR untuk memberhentikan Presiden/Wakil Presiden",
+      "Sekurang kurangnya dihadiri 2/3 dari jumlah Anggota MPR untuk memutus usul DPR untuk memberhentikan Presiden/ Wakil Presiden",
+      "sekurang-kurangnya dihadiri 3/4 dari jumlah Anggota MPR untuk mengubah dan menetapkan UUD",
+      "sekurang-kurangnya dihadiri 60%+1 dari jumlah Anggota MPR sidang-sidang lainnya",
+      "Sekurang kurangnya dihadiri 70%+1 dari jumlah Anggota MPR sidang-sidang lainnya"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sidang MPR untuk memutuskan usul pemberhentian Presiden/Wakil Presiden harus dihadiri **sekurang-kurangnya 2/3 dari jumlah Anggota MPR** (Pasal 7B ayat (7) UUD 1945)."
+  },
+  {
+    "id": 74,
+    "question": "Anggota MPR pasca reformasi terdiri dari...",
+    "options": [
+      "Anggota DPR, Utusan Daerah, Utusan Golongan",
+      "Anggota DPR, Anggota DPD, Utusan Daerah",
+      "Anggota DPD, Utusan Golongan, Utusan Daerah",
+      "Anggota DPR, Utusan Daerah",
+      "Anggota DPR, Anggota DPD"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Setelah amandemen UUD 1945 (terutama yang menghilangkan Utusan Daerah dan Utusan Golongan), Anggota MPR terdiri dari **Anggota DPR** dan **Anggota DPD** (Dewan Perwakilan Daerah) yang dipilih melalui Pemilu."
+  },
+  {
+    "id": 75,
+    "question": "Pengadilan tertinggi dalam tingkatan pengadilan di suatu negara yang teridiri dari banyak daerah adalah....",
+    "options": [
+      "Mahkamah Konstitusi",
+      "Mahkamah Agung",
+      "Mahkamah Internasional",
+      "Pengadilan Negeri",
+      "Presiden"
+    ],
+    "correctAnswer": 1,
+    "explanation": "**Mahkamah Agung (MA)** adalah badan yang melaksanakan kekuasaan kehakiman dan merupakan **pengadilan negara tertinggi** dari semua lingkungan peradilan (umum, agama, militer, tata usaha negara)."
+  },
+  {
+    "id": 76,
+    "question": "Presiden Soeharto di kala itu dinilai sebagai sosok yang anti komunis dan pro barat, hal tersebut dicirikan dari....",
+    "options": [
+      "Membuka kerjasama dengan negara Cina",
+      "Memberi kesempatan warga Tionghoa untuk duduk di kursi pemerintahan",
+      "Membeli persenjataan dari Amerika Serikat, Australia, dan Inggris",
+      "Membolehkan pertunjukan barongsai untuk tampil di pertunjukkan nasional",
+      "Mengembangkan penggunaan bahasa Mandarin di sekolah-sekolah."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kecenderungan pro-Barat Soeharto dicirikan dengan langkah politik luar negeri dan pertahanan yang membuka kerjasama militer dan ekonomi dengan negara-negara Blok Barat, termasuk **pembelian persenjataan dari Amerika Serikat, Australia, dan Inggris**."
+  },
+  {
+    "id": 77,
+    "question": "Dalam sistem politik bentukan Soeharto, porsi militer dalam pemerintahan digambarkan sebagai berikut.....",
+    "options": [
+      "Militer tidak boleh ikut campur dalam ranah parlemen",
+      "Militer dan partai politik bekerjasama sebagai administrator pemerintahan",
+      "Militer diberi peran yang kuat dalam politik, organisasi politik dan sosial di seluruh Indonesia.",
+      "Diberikan kekuasaan yang tidak jauh lebih banyak dari partai politik PDI dan PPP",
+      "Militer hanya sebagai alat untuk menjaga stabilitasi politik pada Orde Baru"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sistem politik Orde Baru dicirikan oleh doktrin **Dwi Fungsi ABRI**, di mana **Militer (ABRI)** tidak hanya berperan sebagai kekuatan pertahanan dan keamanan (Hankam), tetapi juga sebagai kekuatan **Sosial Politik**, sehingga militer memiliki peran yang kuat di legislatif (DPR/MPR) dan eksekutif (birokrasi)."
+  },
+  {
+    "id": 78,
+    "question": "Terkait dengan praktek korupsi, pada era Susilo Bambang Yudhoyono dikeluarkanlah instruksi presiden dalam pemberantasan korupsi sebanyak....",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Presiden SBY mengeluarkan enam kali Instruksi Presiden (Inpres) yang berkaitan dengan pemberantasan dan pencegahan korupsi selama masa jabatannya."
+  },
+  {
+    "id": 79,
+    "question": "Inpres terkait pemberantasan dan pencegahan korupsi terbaru yang terakhir dikeluarkan oleh Susilo Bambang Yudhoyono ketika masih menjabat adalah....",
+    "options": [
+      "Inpres No 5 tahun 2013",
+      "Inpres No 2 tahun 2014",
+      "Inpres No tahun 2014",
+      "Inpres No 17 tahun 2013",
+      "Inpres No 9 tahun 2011"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Instruksi Presiden (Inpres) terakhir yang dikeluarkan SBY terkait percepatan pemberantasan korupsi adalah **Inpres No. 2 Tahun 2014** tentang Aksi Pencegahan dan Pemberantasan Korupsi Tahun 2014."
+  },
+  {
+    "id": 80,
+    "question": "Sebelum menjabat sebagai presiden terpilih saat ini, Jokowi pernah menjabat beberapa posisi diantaranya sebagai....",
+    "options": [
+      "Walikota Semarang",
+      "Gubernur Jawa Barat",
+      "Walikota Surakarta",
+      "Wakil Gubernur DKI",
+      "Wakil presiden RI"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sebelum menjadi Gubernur DKI Jakarta dan Presiden RI, Joko Widodo (Jokowi) menjabat sebagai **Walikota Surakarta (Solo)** selama dua periode."
+  },
+  {
+    "id": 81,
+    "question": "Pada awal jabatan Jokowi sebagai Gubernur DKI, beliau mengeluarkan kebijakan terkait kesejahteraan sosial rakyat berupa....",
+    "options": [
+      "Mengeluarkan kebijakan satu kartu untuk penumpang KRL",
+      "Mengeluarkan Kartu Jakarta Sehat, Kartu Keluarga Sejahtera",
+      "Mengeluarkan kartu bantuan langsung tunai",
+      "Stereilsasi jalur busway",
+      "Peremajaan bus Trans Jakarta"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Salah satu kebijakan awal Jokowi di DKI Jakarta yang berfokus pada kesejahteraan sosial adalah peluncuran program **Kartu Jakarta Sehat (KJS)** dan **Kartu Jakarta Pintar (KJP)**. Dalam opsi yang tersedia, Kartu Jakarta Sehat (KJS) dan Kartu Keluarga Sejahtera (KKS) adalah yang paling mendekati, meskipun KKS lebih dikenal sebagai program nasional di era Jokowi sebagai Presiden."
+  },
+  {
+    "id": 82,
+    "question": "Gaya kepemimpinan pada masa Jokowi terkenal berbeda dengan para pemimpin sebelumnya. Gaya kampanye beliau dikenal sebagai ‘blusukan’ yang memiliki makna....",
+    "options": [
+      "Mencari informasi dari rakyat melalui aparat daerah",
+      "Mengumpulkan informasi akan kebutuhan rakyat melalui jajak pendapat",
+      "turun langsung ke lapangan untuk melihat langsung permasalahan yang ada dan mencari solusi yang tepat",
+      "Pendekatan melalui media sosial",
+      "Pendekatan kontroversi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Blusukan** adalah gaya kepemimpinan yang merujuk pada praktik **turun langsung ke lapangan** secara mendadak/spontan untuk melihat, mendengar, dan merasakan permasalahan rakyat secara langsung."
+  },
+  {
+    "id": 83,
+    "question": "Pada masa reformasi ada bebrapa agenda yang disuarakan oleh mahasiswa, diantaranya adalah....",
+    "options": [
+      "Merekonstruksi perekonomian Indonesia, melikuidasi beberapa bank bermasalah, pemerintahan yang bebas KKN",
+      "Adili Soeharto dan kroni-kroninya, amandemen UUD 1945, penghapusan dwi fungsi ABRI, otonomi daerah, supremasi hukum, pemerintahan yang bersih dari KKN",
+      "Adili Soeharto, Merekonstruksi perekonomian Indonesia",
+      "Amandemen UUD 1945, adili Soeharto, melikuidasi beberapa bank bermasalah",
+      "Amandemen UUD 1945, supremasi hukum, merekonstruksi perekonomian Indonesia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tuntutan utama Reformasi (dikenal sebagai **'Reformasi Total'**) yang disuarakan mahasiswa meliputi: **Adili Soeharto dan kroni**, **Amandemen UUD 1945**, **Penghapusan Dwi Fungsi ABRI**, **Otonomi Daerah**, **Supremasi Hukum**, dan **Pemerintahan yang bersih dari KKN** (Korupsi, Kolusi, Nepotisme)."
+  },
+  {
+    "id": 84,
+    "question": "Dengan adanya reformasi, masa jabatan presiden mengalami perubahan yakni menjadi...",
+    "options": [
+      "Sekali dipilih dan berlaku selama 3 kali masa jabatan",
+      "Masa jabatan presiden maksimal dua kali masa jabatan",
+      "Masa jabatan presiden minimal dua kali masa jabatan",
+      "Masa jabatan presiden seumur hidup",
+      "Selama terpilih satu kali , untuk selanjutnya tidak berhak lagi terpilih"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Setelah amandemen UUD 1945 (Pasal 7), masa jabatan Presiden dibatasi: **Masa jabatan presiden maksimal dua kali masa jabatan** (masing-masing 5 tahun)."
+  },
+  {
+    "id": 85,
+    "question": "Pada orde reformasi, pemberantasan korupsi semakin diperkuat dengan dikeluarkannya....",
+    "options": [
+      "Ketetapan MPR No V/MPR/1999",
+      "Ketetapan MPR No IX / MPR / 1998 yang ditindak lanjuti dengan UU no 30/2002 tentang KOMISI pemberantasan tindak pidana korupsi.",
+      "UU No 2 tahun 1999",
+      "Inpres No 9 tahun 2011",
+      "Ketetapan MPR No II/ MPR/ 1998"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Langkah penting dalam pemberantasan korupsi pada era Reformasi diawali dengan **Tap MPR No. XI/MPR/1998** tentang Penyelenggara Negara yang Bersih dan Bebas KKN (bukan Tap MPR No IX/MPR/1998), yang kemudian ditindaklanjuti dengan pembentukan **KPK (Komisi Pemberantasan Korupsi)** melalui **UU No. 30 Tahun 2002**."
+  },
+  {
+    "id": 86,
+    "question": "Usaha yang dibentuk dalam rangka melaksanaan pemilihan umum di Indonesia sejak era reformasi ditangani oleh....",
+    "options": [
+      "MPR",
+      "Komisi Pemilihan Umum",
+      "Komisi Yudisial",
+      "DPR",
+      "KPI"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pelaksanaan Pemilihan Umum (Pemilu) di Indonesia sejak era Reformasi ditangani oleh lembaga independen yang bersifat nasional, tetap, dan mandiri, yaitu **Komisi Pemilihan Umum (KPU)**."
+  },
+  {
+    "id": 87,
+    "question": "Kebijakan pemerintahan pada masa Susilo Bambang Yudhoyono juga merambah ke sektor pendidikan yaitu...",
+    "options": [
+      "Penghentian tunjangan profesi guru",
+      "Anggaran pendidikan dianggarkan sebesar 20% dari total anggaran",
+      "Menolak standarisasi pendidikan",
+      "Kompetensi guru masih dipertimbangkan dalam perekruitannya",
+      "Anggaran pendidikan dianggarkan sebesar 20% dari total anggaran"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sesuai amanat UUD 1945 (setelah amandemen) Pasal 31 ayat (4), pada masa SBY mulai dilaksanakan alokasi **anggaran pendidikan sebesar 20%** dari total Anggaran Pendapatan dan Belanja Negara (APBN)/Anggaran Pendapatan dan Belanja Daerah (APBD)."
+  },
+  {
+    "id": 88,
+    "question": "Langkah dalam kebijakan pemerintahan Susilo Bambang Yuhoyono yang dinilai cukup kontroversial adalah...",
+    "options": [
+      "Standarisasi pendidikan",
+      "Peningkatan kesejahteraan guru",
+      "Pengurangan subsidi BBM",
+      "Privatisasi BUMN",
+      "Penerapan kurikulum berbasis kompetensi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kebijakan yang paling kontroversial pada masa pemerintahan SBY adalah keputusan untuk **mengurangi (atau menaikkan harga)** **subsidi Bahan Bakar Minyak (BBM)**, yang berulang kali memicu protes dan demonstrasi besar-besaran karena dampak kenaikan harga barang."
+  },
+  {
+    "id": 89,
+    "question": "Mengapa kebijakan Bantuan Langsung Tunai menuai protes pada waktu pemerintahan SBY?",
+    "options": [
+      "BLT dinilai terlalu menghabiskan anggaran pemerintah",
+      "BLT dinilai tidak tepat sasaran dan menimbulkan masalah sosial",
+      "Pertimbangan dari fraksi-fraksi yang duduk di MPR, BLT lebih baik digunakan untuk subsidi BBM kembali",
+      "Dana BLT lebih baik untuk memperbaiki infrastruktur negara",
+      "Respon masyarakat yang kurang begitu antusias terhadap BLT"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Program **Bantuan Langsung Tunai (BLT)** yang diberikan sebagai kompensasi kenaikan harga BBM seringkali menuai protes karena masalah pendataan yang buruk, menyebabkan dana **tidak tepat sasaran** (misalnya diterima oleh orang kaya atau tidak diterima oleh orang miskin), dan bahkan **menimbulkan masalah sosial** (kecemburuan dan kericuhan)."
+  },
+  {
+    "id": 90,
+    "question": "Undang-undang Nomor 24 Tahun 2007 yang dikeluarkan SBY adalah sebagai respon positif terhadap peristiwa yang terjadi yakni....",
+    "options": [
+      "Masalah pembagian BLT",
+      "Masalah kependidikan di Indonesia",
+      "Masalah penanggulangan bencana alam",
+      "Pengurangan subsidi BBM",
+      "Privatisasi BUMN"
+    ],
+    "correctAnswer": 2,
+    "explanation": "**UU No. 24 Tahun 2007** adalah tentang **Penanggulangan Bencana**, yang dikeluarkan sebagai respons terhadap tingginya frekuensi dan dampak bencana alam di Indonesia pada masa tersebut (seperti Tsunami Aceh 2004, Gempa Yogya 2006, dll.)."
+  },
+  {
+    "id": 91,
+    "question": "Ada beberapa hal terkait kasus hukum yang masih menjadi pekerjaan rumah SBY yang hingga kini juga belum terselesaikan, hal tersebut diantaranya adalah...",
+    "options": [
+      "Kasus kisruh pembagian BLT",
+      "Kasus Munir",
+      "Pergantian kurikulum pendidikan",
+      "Kasus KPK vs Polri",
+      "Kasus subsidi BBM"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Meskipun terjadi di akhir era Megawati, **Kasus Munir** (pembunuhan aktivis HAM Munir Said Thalib) menjadi kasus hukum penting yang terus disoroti dan menjadi 'pekerjaan rumah' yang belum tuntas di masa pemerintahan SBY."
+  },
+  {
+    "id": 92,
+    "question": "Korupsi mulai memasuki ranah aparat negara, pada era SBY terdapat beberapa kementrian yang diduga terlibat dalam kasus korupsi. Kementrian tersebut adalah...",
+    "options": [
+      "Kementrian Lingkungan Hidup, Kementrian Keuangan",
+      "Kementrian Kehutanan, Kementrian Negara dan Pemuda Olahraga, Kementrian Tenaga Kerja dan Transmigrasi, Kementrian Pendidikan Nasional, Kementrian Luar Negeri, Kementrian Perhubungan, Kementrian Koordinasi Kesejahteraan Rakyat",
+      "Kementrian Pertanian, Kementrian Keuangan",
+      "Kementrian Lingkungan Hidup, Kementrian Pertanian",
+      "Kementrian Keuangan, Kemnetrian Kehutanan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Meskipun sulit untuk merangkum semua, kasus korupsi yang menonjol dan menyeret banyak pejabat kementerian di era SBY (khususnya KIB II) melibatkan kementerian seperti **Kementerian Negara Pemuda dan Olahraga** (Kasus Hambalang), **Kementerian Tenaga Kerja dan Transmigrasi**, **Kementerian Pendidikan Nasional**, dan lainnya, sesuai dengan cakupan opsi B."
+  },
+  {
+    "id": 93,
+    "question": "Kartu Indonesia Sehat, Kartu Indonesia Pintar, dan Kartu Keluarga Sejahtera menuai kecaman dari oposisi, dikarenakan....",
+    "options": [
+      "Program yang sia-sia",
+      "Program yang tidak berpayung hukum dan melanggar tata tertib anggaran",
+      "Program yang menyamai BLT",
+      "Program yang hanya meredam isu kenaikan harga BBM",
+      "Program yang dibuat berdasarkan ide dari Jusuf Kalla saja"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pada awal peluncuran program KIS, KIP, dan KKS di era Jokowi, pihak oposisi mengajukan protes karena program tersebut dinilai **tidak memiliki dasar hukum yang jelas** (belum dianggarkan dalam APBN) dan dianggap **melanggar tata tertib anggaran** karena menggunakan dana dari APBN Perubahan sebelum disahkan."
+  },
+  {
+    "id": 94,
+    "question": "Kebijkan apakah yang dilakukan Jokowi dalam bidang kelautan?",
+    "options": [
+      "Perlakuan keras terhadap pencuri ikan ilegal",
+      "Menjual hasil perikanan lebih murah dibandingkan harga di luar negeri",
+      "Mengajak kerjasama para pencuri ikan untuk dapat memasarkan hasil perikanan Indonesia",
+      "Mengajak kerjasama negara-negara tetangga untuk menangkap pencuri ikan ilegal",
+      "Membiarkan kapal pencuri ikan berkeliaran di perairan Indonesia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kebijakan yang sangat menonjol di bidang kelautan pada masa Jokowi adalah **pemberantasan penangkapan ikan ilegal (Illegal, Unreported, and Unregulated/IUU Fishing)** yang diwujudkan dengan **perlakuan keras terhadap kapal pencuri ikan ilegal**, termasuk penenggelaman kapal."
+  },
+  {
+    "id": 95,
+    "question": "Demokrasi jalanan adalah merupakan gaya khas dari pemerintahan...",
+    "options": [
+      "Soekarno",
+      "Soeharto",
+      "Megawati",
+      "Gus Dur",
+      "Jokowi"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Masa pemerintahan **Gus Dur** (Abdurrahman Wahid) sering dikaitkan dengan istilah **Demokrasi Jalanan** karena gaya kepemimpinan yang kontroversial dan cenderung membela rakyat kecil. Selain itu, pada masanya sering terjadi demonstrasi besar-besaran di jalanan sebagai bentuk kritik maupun dukungan politik."
+  },
+  {
+    "id": 96,
+    "question": "Pada masa Habibie terjadi pemberian amnesti, abolisi. Hal tersebut berupa....",
+    "options": [
+      "Pembebasan tahanan politik kaum separatis PKI",
+      "Memperkuat keberadaan Undang-undang Subversi",
+      "Mengabaikan budaya oposisi",
+      "Menjauhi orang-orang yang terlibat Orde Baru",
+      "Memperpanjang masa tahanan politik"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pemberian **amnesti (penghapusan hukuman)** dan **abolisi (penghapusan penuntutan)** oleh Presiden B.J. Habibie merupakan bagian dari langkah demokratisasi dan rekonsiliasi politik, termasuk **pembebasan tahanan politik (tapol)** yang ditahan di era Orde Baru, seperti aktivis politik dan orang-orang yang dituduh terlibat PKI atau separatis."
+  },
+  {
+    "id": 97,
+    "question": "Pengungkapan aksi terorisme Bom Bali I dan II menjadi titik awal dalam pemberantasan aksi teror khususnya di Indonesia, ini terjadi pada masa pemerintahan....",
+    "options": [
+      "Gus Dur",
+      "BJ Habibie",
+      "Megawati",
+      "Susilo Bambang Yudhoyono",
+      "Soeharto"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Peristiwa **Bom Bali I (2002)** dan **Bom Bali II (2005)** adalah peristiwa terorisme besar. Bom Bali I, yang menjadi titik awal pengungkapan jaringan terorisme, terjadi pada masa pemerintahan **Presiden Megawati Soekarnoputri**."
+  },
+  {
+    "id": 98,
+    "question": "Reformasi birokrasi pada masa kepemimpinan Megawati dinilai gagal terlihat dari....",
+    "options": [
+      "Megawati menyusun langkah-langkah sendiri yang cenderung birokratif",
+      "Korupsi masih merajalela dan adanya pengampunan pada sejumlah koruptor",
+      "Waktu yang dirasa masih terlalu dini bagi Megawati dalam memberantas korupsi",
+      "Munculnya tokoh-tokoh baru yang lebih visioner dalam memberantas korupsi",
+      "Adanya campur tangan pihak asing dalam upaya pemberantasan korupsi di Indonesia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Upaya reformasi birokrasi dan pemberantasan korupsi pada masa Megawati dinilai lemah atau gagal, terutama karena adanya kebijakan **pemberian SKL (Surat Keterangan Lunas)** kepada sejumlah obligor **BLBI** (Bantuan Likuiditas Bank Indonesia) yang merugikan negara, yang dianggap sebagai **pengampunan (atau pemutihan utang) terhadap koruptor**."
+  },
+  {
+    "id": 99,
+    "question": "Kegagalan diplomasi pada era Megawati salah satunya tercermin dalam....",
+    "options": [
+      "Lepasnya kepulauan Sipadan-Ligitan dari Indonesia",
+      "Gagalnya melakukan kerjasama internasional dalam kebijakan ekonomi",
+      "Indonesia menolak mengikuti Amerika dalam tuntutan ke Iraq dalam menyerahkan Abu Bakar Baasyir",
+      "Indonesia keluar dari IMF",
+      "Ketidakstabilan ekonomi makro seperti inflasi, kurs rupiah terhadap dollar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pada tahun **2002**, Mahkamah Internasional (ICJ) memutuskan bahwa Pulau **Sipadan dan Ligitan** (yang diklaim oleh Indonesia dan Malaysia) menjadi milik Malaysia. Keputusan ini dinilai sebagai **kegagalan diplomasi** Indonesia, meskipun prosesnya sudah berlangsung sejak sebelum masa Megawati."
+  },
+  {
+    "id": 100,
+    "question": "Salah satu contoh pembangunan berkelanjutan pada masa Susilo Bambang Yudhoyono adalah....",
+    "options": [
+      "Melakukan pemerataan pembangunan dengan membentuk provinsi baru berdasarkan kebutuhan yaitu Kepulauan Riau dan Bangka Belitung, Sulawesi Barat, dan Papua Barat.",
+      "Subsidi BBM, pembentukan perumahan murah bagi rakyat yang akan menampung rakyat miskin yang hidup di kolom jembatan, juga golongan rakyat lain yang belum punya rumah layak",
+      "Menyehatkan perbankan nasional yang collapse setelah krisis ekonomi 1998",
+      "Berhasil menghasilkan 45 milyar dolar AS dari penjualan LNG Tangguh ke China",
+      "Melakukan operasi kesejahteraan dan militer di Aceh yaitu dengan mengembalikan proporsi pendapatan dari Lapangan Arun sebagian besar kepada rakyat Aceh dgn status daerah Otonomi Khusus dan menangkap anggota GAM bersenjata"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Salah satu ciri pembangunan berkelanjutan dan pemerataan adalah penyesuaian otonomi daerah. Pada masa SBY, terjadi pembentukan beberapa provinsi baru melalui pemekaran (seperti **Kepulauan Riau, Bangka Belitung, Sulawesi Barat, dan Papua Barat**) sebagai upaya untuk meningkatkan efektivitas pemerintahan dan pemerataan pembangunan daerah."
+  }
+
+]
