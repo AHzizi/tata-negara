@@ -7,7 +7,8 @@ interface QuizContextType {
   quizState: QuizState;
   user: User | null;
   setUser: (user: User) => void;
-  updateAnswer: (questionId: number, answer: number | null) => void;
+  // Perhatikan: answer di sini adalah **indeks asli** dari opsi yang dipilih (0, 1, 2, ...)
+  updateAnswer: (questionId: number, answer: number | null) => void; 
   goToQuestion: (questionIndex: number) => void;
   nextQuestion: () => void;
   previousQuestion: () => void;
@@ -18,78 +19,113 @@ interface QuizContextType {
   getUnansweredQuestions: () => number[];
   isQuizStarted: boolean;
   startQuiz: () => void;
+  calculateScore: () => number; // Tambahkan fungsi untuk menghitung skor
 }
 
 const QuizContext = createContext<QuizContextType | undefined>(undefined);
 
 const QUIZ_DURATION = 90 * 60 * 1000; // 90 minutes in milliseconds
 const STORAGE_KEY = 'quiz-state';
+const USER_STORAGE_KEY = 'quiz-user';
+const START_STORAGE_KEY = 'quiz-started';
+
+// Ambil data pertanyaan sekali
+const initialQuestions: Question[] = questionsData as Question[];
+
+const getInitialQuizState = (questions: Question[]): QuizState => ({
+  currentQuestion: 0,
+  answers: questions.map(q => ({
+    questionId: q.id,
+    selectedAnswer: null,
+    isAnswered: false
+  })),
+  timeRemaining: QUIZ_DURATION,
+  isCompleted: false,
+  startTime: Date.now()
+});
 
 export const QuizProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
-  const [questions] = useState<Question[]>(questionsData);
-  const [user, setUser] = useState<User | null>(null);
+  // Gunakan initialQuestions yang sudah diimpor
+  const [questions] = useState<Question[]>(initialQuestions); 
+  const [user, setUserState] = useState<User | null>(null);
   const [isQuizStarted, setIsQuizStarted] = useState(false);
+
+  // Inisialisasi State Kuis
   const [quizState, setQuizState] = useState<QuizState>(() => {
+    // 1. Coba ambil state yang tersimpan
     const saved = localStorage.getItem(STORAGE_KEY);
     if (saved) {
-      const parsedState = JSON.parse(saved);
-      return {
-        ...parsedState,
-        startTime: parsedState.startTime || Date.now()
-      };
+      try {
+        const parsedState = JSON.parse(saved);
+        // Pastikan answers memiliki panjang yang sama dengan questions yang dimuat
+        if (parsedState.answers.length === questions.length) {
+             return {
+                ...parsedState,
+                // Pastikan startTime ada atau gunakan waktu sekarang
+                startTime: parsedState.startTime || Date.now() 
+             };
+        }
+      } catch (e) {
+        console.error("Error parsing saved quiz state", e);
+        // Jika parsing gagal, fallback ke state awal
+      }
     }
     
-    return {
-      currentQuestion: 0,
-      answers: questions.map(q => ({
-        questionId: q.id,
-        selectedAnswer: null,
-        isAnswered: false
-      })),
-      timeRemaining: QUIZ_DURATION,
-      isCompleted: false,
-      startTime: Date.now()
-    };
+    // 2. Fallback ke state awal jika tidak ada data tersimpan atau data korup
+    return getInitialQuizState(questions);
   });
 
-  // Save state to localStorage whenever it changes
+  // --- Efek Pemuatan (Load) ---
   useEffect(() => {
-    if (isQuizStarted) {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(quizState));
-    }
-  }, [quizState, isQuizStarted]);
-
-  // Load user from localStorage
-  useEffect(() => {
-    const savedUser = localStorage.getItem('quiz-user');
+    // Load User
+    const savedUser = localStorage.getItem(USER_STORAGE_KEY);
     if (savedUser) {
-      setUser(JSON.parse(savedUser));
+      setUserState(JSON.parse(savedUser));
     }
 
-    const savedQuizStarted = localStorage.getItem('quiz-started');
+    // Load Quiz Started status
+    const savedQuizStarted = localStorage.getItem(START_STORAGE_KEY);
     if (savedQuizStarted === 'true') {
       setIsQuizStarted(true);
     }
-  }, []);
+  }, []); // Hanya berjalan saat mount
+
+  // --- Efek Penyimpanan (Save) ---
+  useEffect(() => {
+    // Simpan state hanya jika kuis sudah dimulai dan belum selesai
+    if (isQuizStarted && !quizState.isCompleted) { 
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(quizState));
+    }
+  }, [quizState, isQuizStarted]);
+  
+  // --- Aksi Kuis ---
 
   const startQuiz = () => {
     setIsQuizStarted(true);
-    localStorage.setItem('quiz-started', 'true');
+    localStorage.setItem(START_STORAGE_KEY, 'true');
     
-    // Reset timer if needed
-    setQuizState(prev => ({
-      ...prev,
-      startTime: Date.now(),
-      timeRemaining: QUIZ_DURATION
-    }));
+    // Reset timer dan answers saat kuis dimulai (jika belum selesai)
+    if (!quizState.isCompleted) {
+        setQuizState(prev => ({
+            ...prev,
+            answers: getInitialQuizState(questions).answers, // Reset jawaban
+            startTime: Date.now(),
+            timeRemaining: QUIZ_DURATION
+        }));
+    }
   };
 
+  // Fungsi ini menerima **indeks asli** dari Question.tsx (Sudah Benar)
   const updateAnswer = (questionId: number, answer: number | null) => {
     setQuizState(prev => ({
       ...prev,
       answers: prev.answers.map(a => 
         a.questionId === questionId 
-          ? { ...a, selectedAnswer: answer, isAnswered: answer !== null }
+          ? { 
+              ...a, 
+              selectedAnswer: answer, 
+              isAnswered: answer !== null 
+            }
           : a
       )
     }));
@@ -124,34 +160,52 @@ export const QuizProvider: React.FC<{ children: React.ReactNode }> = ({ children
   const submitQuiz = () => {
     setQuizState(prev => ({ ...prev, isCompleted: true }));
     localStorage.setItem('quiz-completed', 'true');
+    localStorage.removeItem(STORAGE_KEY); // Hapus state yang sedang berjalan setelah submit
   };
 
   const resetQuiz = () => {
-    setQuizState({
-      currentQuestion: 0,
-      answers: questions.map(q => ({
-        questionId: q.id,
-        selectedAnswer: null,
-        isAnswered: false
-      })),
-      timeRemaining: QUIZ_DURATION,
-      isCompleted: false,
-      startTime: Date.now()
-    });
+    setQuizState(getInitialQuizState(questions)); // Gunakan fungsi inisialisasi yang rapi
     setIsQuizStarted(false);
+    
+    // Hapus semua data kuis terkait
     localStorage.removeItem(STORAGE_KEY);
-    localStorage.removeItem('quiz-started');
+    localStorage.removeItem(START_STORAGE_KEY);
     localStorage.removeItem('quiz-completed');
+    localStorage.removeItem(USER_STORAGE_KEY); // Hapus juga user saat reset total
+    setUserState(null);
   };
 
   const updateTimer = (timeRemaining: number) => {
-    setQuizState(prev => ({ ...prev, timeRemaining }));
+    // Hanya update jika kuis belum selesai
+    if (!quizState.isCompleted) {
+        setQuizState(prev => ({ ...prev, timeRemaining }));
+    }
   };
 
   const getUnansweredQuestions = () => {
+    // Ubah .map(answer => answer.questionId) menjadi .map((answer, index) => index) 
+    // agar mengembalikan indeks (0-based) pertanyaan, bukan ID (1-based)
     return quizState.answers
-      .filter(answer => !answer.isAnswered)
-      .map(answer => answer.questionId);
+      .map((answer, index) => ({ answer, index }))
+      .filter(({ answer }) => !answer.isAnswered)
+      .map(({ index }) => index);
+  };
+  
+  const calculateScore = () => {
+    if (!quizState.isCompleted) return 0;
+
+    let correctCount = 0;
+    
+    quizState.answers.forEach(userAnswer => {
+        const questionData = questions.find(q => q.id === userAnswer.questionId);
+        
+        // Membandingkan selectedAnswer (indeks asli) dengan correctAnswer (indeks asli)
+        if (questionData && userAnswer.selectedAnswer === questionData.correctAnswer) {
+            correctCount++;
+        }
+    });
+    
+    return correctCount;
   };
 
   const contextValue: QuizContextType = {
@@ -159,8 +213,8 @@ export const QuizProvider: React.FC<{ children: React.ReactNode }> = ({ children
     quizState,
     user,
     setUser: (user: User) => {
-      setUser(user);
-      localStorage.setItem('quiz-user', JSON.stringify(user));
+      setUserState(user);
+      localStorage.setItem(USER_STORAGE_KEY, JSON.stringify(user));
     },
     updateAnswer,
     goToQuestion,
@@ -172,7 +226,8 @@ export const QuizProvider: React.FC<{ children: React.ReactNode }> = ({ children
     updateTimer,
     getUnansweredQuestions,
     isQuizStarted,
-    startQuiz
+    startQuiz,
+    calculateScore
   };
 
   return (

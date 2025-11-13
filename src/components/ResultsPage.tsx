@@ -1,26 +1,22 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import { CheckCircle, XCircle, Clock, User, Trophy, RotateCcw } from 'lucide-react';
 import { useQuiz } from '../contexts/QuizContext';
 
 export const ResultsPage: React.FC = () => {
-  const { questions, quizState, user, resetQuiz } = useQuiz();
+  // Ambil calculateScore yang sudah ada di context
+  const { questions, quizState, user, resetQuiz, calculateScore } = useQuiz();
 
-  const calculateScore = () => {
-    let correctAnswers = 0;
-    quizState.answers.forEach(answer => {
-      if (answer.isAnswered) {
-        const question = questions.find(q => q.id === answer.questionId);
-        if (question && answer.selectedAnswer === question.correctAnswer) {
-          correctAnswers++;
-        }
-      }
-    });
-    return correctAnswers;
-  };
-
-  const score = calculateScore();
+  // Hitung skor hanya sekali menggunakan useMemo
+  const score = useMemo(() => calculateScore(), [quizState.isCompleted]);
+  
   const totalQuestions = questions.length;
-  const timeSpent = 20 * 60 * 1000 - quizState.timeRemaining;
+  // Asumsi QUIZ_DURATION (90 menit) ada di QuizContext, tapi di sini hardcoded 20*60*1000
+  // Saya akan mengasumsikan durasi kuis adalah total waktu yang dihabiskan
+  // Waktu yang dihabiskan = (Waktu mulai + Durasi total) - Waktu tersisa
+  // Jika asumsi Anda 20*60*1000, saya pakai itu untuk menghitung waktu yang terpakai.
+  const QUIZ_DURATION_MS = 90 * 60 * 1000; // Asumsi dari QuizContext
+  const timeSpent = QUIZ_DURATION_MS - quizState.timeRemaining; 
+  
   const percentage = Math.round((score / totalQuestions) * 100);
 
   const formatTime = (timeInMs: number) => {
@@ -39,6 +35,7 @@ export const ResultsPage: React.FC = () => {
   };
 
   const performance = getPerformanceMessage();
+  const optionLabels = ['A', 'B', 'C', 'D', 'E'];
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-sky-50 to-white dark:from-gray-900 dark:to-gray-800 p-4">
@@ -80,7 +77,7 @@ export const ResultsPage: React.FC = () => {
 
           <div className="bg-white dark:bg-gray-800 rounded-lg p-6 shadow-md border border-sky-100 dark:border-gray-700 text-center">
             <div className="text-3xl font-bold text-blue-600 dark:text-blue-400 mb-2">
-              {percentage} 
+              {percentage}%
             </div>
             <div className="text-sm text-gray-600 dark:text-gray-300">
               Nilai Kamu
@@ -109,9 +106,9 @@ export const ResultsPage: React.FC = () => {
           <div className="p-6 space-y-6">
             {questions.map((question, index) => {
               const userAnswer = quizState.answers.find(a => a.questionId === question.id);
+              // Perbandingan menggunakan indeks asli (selectedAnswer vs correctAnswer)
               const isCorrect = userAnswer?.selectedAnswer === question.correctAnswer;
               const isAnswered = userAnswer?.isAnswered || false;
-              const optionLabels = ['A', 'B', 'C', 'D', 'E'];
 
               return (
                 <div key={question.id} className="border border-gray-200 dark:border-gray-700 rounded-lg p-4">
@@ -134,16 +131,18 @@ export const ResultsPage: React.FC = () => {
                       </h3>
                       
                       <div className="space-y-2 mb-3">
+                        {/* Di sini, kita harus menampilkan opsi dalam URUTAN ASLI dari JSON */}
                         {question.options.map((option, optionIndex) => {
+                          // Karena kita menampilkan opsi dalam urutan asli (index = original index)
                           const isUserAnswer = userAnswer?.selectedAnswer === optionIndex;
                           const isCorrectAnswer = optionIndex === question.correctAnswer;
                           
                           let optionClasses = "p-2 rounded text-sm ";
                           
                           if (isCorrectAnswer) {
-                            optionClasses += "bg-green-100 dark:bg-green-900 text-green-800 dark:text-green-200 ";
+                            optionClasses += "bg-green-100 dark:bg-green-900 text-green-800 dark:text-green-200 font-bold ";
                           } else if (isUserAnswer && !isCorrectAnswer) {
-                            optionClasses += "bg-red-100 dark:bg-red-900 text-red-800 dark:text-red-200 ";
+                            optionClasses += "bg-red-100 dark:bg-red-900 text-red-800 dark:text-red-200 font-bold ";
                           } else {
                             optionClasses += "bg-gray-50 dark:bg-gray-700 text-gray-700 dark:text-gray-300 ";
                           }
@@ -153,12 +152,12 @@ export const ResultsPage: React.FC = () => {
                               <span className="font-medium">{optionLabels[optionIndex]}.</span> {option}
                               {isUserAnswer && (
                                 <span className="ml-2 text-xs font-medium">
-                                  (Your answer)
+                                  (Jawaban Kamu)
                                 </span>
                               )}
                               {isCorrectAnswer && (
                                 <span className="ml-2 text-xs font-medium">
-                                  (Correct answer)
+                                  (Jawaban Benar)
                                 </span>
                               )}
                             </div>
